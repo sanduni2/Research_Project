@@ -1,0 +1,83 @@
+{
+    "model_name": "ResNet50 Transfer Learning",
+    "timestamp": "2026-01-03 23:24:10",
+    "training_time_seconds": 4759.8615000247955,
+    "total_epochs": 50,
+    "phase1_epochs": 50,
+    "phase2_epochs": 0,
+    "fine_tune_from_layer": 140,
+    "overall_metrics": {
+        "accuracy": 0.81,
+        "precision": 0.8393046192259674,
+        "recall": 0.81,
+        "f1_score": 0.7961287480744494,
+        "loss": 0.4712032079696655
+    },
+    "per_class_metrics": {
+        "0_percent": {
+            "precision": 0.8194444444444444,
+            "recall": 0.9833333333333333,
+            "f1_score": 0.8939393939393939,
+            "support": 60
+        },
+        "25_percent": {
+            "precision": 1.0,
+            "recall": 0.4875,
+            "f1_score": 0.6554621848739496,
+            "support": 80
+        },
+        "50_percent": {
+            "precision": 0.7528089887640449,
+            "recall": 0.8375,
+            "f1_score": 0.7928994082840237,
+            "support": 80
+        },
+        "100_percent": {
+            "precision": 0.78,
+            "recall": 0.975,
+            "f1_score": 0.8666666666666667,
+            "support": 80
+        }
+    },
+    "confusion_matrix": [
+        [
+            59,
+            0,
+            0,
+            1
+        ],
+        [
+            8,
+            39,
+            20,
+            13
+        ],
+        [
+            5,
+            0,
+            67,
+            8
+        ],
+        [
+            0,
+            0,
+            2,
+            78
+        ]
+    ],
+    "model_parameters": {
+        "total_params": 24779396,
+        "trainable_params": 14978048,
+        "non_trainable_params": 8609664
+    },
+    "hyperparameters": {
+        "batch_size": 32,
+        "initial_learning_rate": 0.0001,
+        "finetune_learning_rate": 1e-05,
+        "image_size": [
+            224,
+            224
+        ],
+        "validation_split": 0.2
+    }
+}

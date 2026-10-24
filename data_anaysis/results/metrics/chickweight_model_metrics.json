@@ -1,0 +1,31 @@
+{
+    "Linear Regression": {
+        "R2_Score": 0.7435624637118803,
+        "RMSE": 36.129915438659935,
+        "MAE": 22.729339785309197,
+        "MAPE": 16.790789536124446
+    },
+    "Decision Tree": {
+        "R2_Score": 0.7138283667471426,
+        "RMSE": 38.16712421316966,
+        "MAE": 22.2300113679424,
+        "MAPE": 14.53369744961323
+    },
+    "Random Forest": {
+        "R2_Score": 0.7149849982977782,
+        "RMSE": 38.08991530903158,
+        "MAE": 22.160562926444832,
+        "MAPE": 14.500181779535021
+    },
+    "best_model": "Linear Regression",
+    "feature_columns": [
+        "Time",
+        "Diet",
+        "Time_squared",
+        "Time_Diet_interaction",
+        "Diet_1",
+        "Diet_2",
+        "Diet_3",
+        "Diet_4"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "model_name": "Linear Regression",
+    "r2_score_train": 0.9989886012047086,
+    "r2_score_test": 0.9990254363354863,
+    "rmse": 63.72949961581926,
+    "mae": 50.408434844693076,
+    "mape": 4.674115033581548,
+    "features": [
+        "Age_Days",
+        "Age_Squared",
+        "Age_Cubed",
+        "Diet_Encoded",
+        "Age_Diet_Interaction"
+    ],
+    "target": "Weight_g",
+    "unit": "grams",
+    "input_unit": "days",
+    "age_range": "0-84 days",
+    "diet_types": [
+        "Standard",
+        "High_Protein",
+        "Low_Protein"
+    ],
+    "training_date": "2026-03-07 21:51:51"
+}

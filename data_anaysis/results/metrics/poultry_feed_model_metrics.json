@@ -1,0 +1,47 @@
+{
+    "Linear Regression": {
+        "R2_Score": -0.0010960870835792225,
+        "RMSE": 574.0429519573643,
+        "MAE": 496.79449309513876,
+        "MAPE": 10.165580202743522
+    },
+    "Decision Tree": {
+        "R2_Score": -0.10903475654563644,
+        "RMSE": 604.1977248949846,
+        "MAE": 517.237999414987,
+        "MAPE": 10.568253794351682
+    },
+    "Random Forest": {
+        "R2_Score": -0.014209671440314597,
+        "RMSE": 577.7904787742989,
+        "MAE": 499.0723845630373,
+        "MAPE": 10.205979012406733
+    },
+    "best_model": "Linear Regression",
+    "feature_columns": [
+        "Weight_Growth",
+        "Temperature",
+        "Humidity",
+        "Mortality_Rate",
+        "Egg_Production",
+        "Disease_Encoded",
+        "Weather_Encoded",
+        "Vaccination_Cost",
+        "Labor_Hours",
+        "Weight_Temp_interaction",
+        "Weight_Humidity_interaction",
+        "Mortality_Weight_ratio"
+    ],
+    "disease_classes": [
+        "Digestive",
+        "None",
+        "Other",
+        "Respiratory"
+    ],
+    "weather_classes": [
+        "Clear",
+        "Cloudy",
+        "Rainy",
+        "Sunny"
+    ]
+}

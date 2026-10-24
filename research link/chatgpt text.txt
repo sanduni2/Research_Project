@@ -1,0 +1,62 @@
+Research Articles & Resources (20)
+
+Mechanistic Model Estimating Feed Intake and Optimizing Broiler Growth – Model simulates economic scenarios and predictive growth optimization. 
+ScienceDirect
+
+Formulation & Optimization of Poultry Feed – Balances cost and nutritional quality for economic profitability. 
+ScienceDirect
+
+Machine Learning in Broiler Growth & Health Prediction – ML models achieve 98–99% accuracy in growth predictions. 
+Cambridge University Press & Assessment
+
+Bi-objective Optimization of Nutrient Intake Using GP regression + GA – Balances weight gain and feed efficiency via multi-objective optimization. 
+Frontiers
+
+Optimization of Poultry Feed via Experimental Design – Improved daily gain with ~30% lower cost using mixture design. 
+docsdrive.com
+Science Alert
+
+AI in Feed Formulation for Precision Nutrition – Promotes real-time, adaptive feed strategies using AI. 
+gmpc-akademie.de
+
+Review: Nutritional Requirements for Optimizing Feed – Covers stage-specific nutrient needs and precision feeding strategies. 
+animalscipublisher.com
+
+Advances in Poultry Feed Tech – Focuses on least-cost formulations, NIR spectroscopy, and automated control. 
+Taylor & Francis Online
+
+Future of Feed Formulation: Sustainable Approaches – Moves toward profit-maximizing and environmentally-aware feed modeling. 
+ScienceDirect
+
+Review: Modeling in 'Big Data' Poultry Era – Highlights ML for nutrition, genetics, and environmental modeling. 
+ScienceDirect
+
+Precision Multi-objective Feed Formulation Review – Surveys LP and metaheuristic optimization techniques. 
+SpringerLink
+
+Feed Formulation Problem in Nigerian Poultry – Mathematical programming for cost-efficient ingredient selection. 
+scihub.org
+
+Smart Poultry Houses: DL + GA for FCR Optimization – Uses deep learning and genetic algorithms to improve feed conversion. 
+arXiv
+
+Deep Learning in Agriculture (Survey) – DL applications for complex agricultural predictions. 
+arXiv
+
+AI-Driven Nutritional Management in Poultry – Big Data and AI enable responsive, efficient feed management. 
+celeritasdigital.com
+
+Feed Formulation Evolution: Least Cost to Max Profit Models – Calls for profit-driven modeling in farming systems. 
+rune.une.edu.au
+ScienceDirect
+
+Feed Formulation Diversity Importance – Emphasizes understanding nutritional values of feed components. 
+Redalyc.org
+
+Linear Programming Model for Broiler Feed Cost Reduction – Achieves ~38% feed cost reduction via LP. 
+ijern.com
+
+Precision Animal Feed Formulation via Multi-objective Evolutionary Approach – Balance nutrition and cost in feed outcomes. 
+ScienceDirect
+
+Review of Poultry Nutrition & Feed Efficiency (embedded in #7). Already covered.

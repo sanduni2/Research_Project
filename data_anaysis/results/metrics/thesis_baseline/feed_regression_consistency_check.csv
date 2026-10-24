@@ -1,0 +1,3 @@
+Source,Model,R2,RMSE,MAE,Notes
+results/metrics/poultry_feed_model_metrics.json,Linear Regression,-0.0010960870835792225,574.0429519573643,496.79449309513876,Best from dataset-level baseline file
+models/feed_prediction_metadata.json,Linear Regression,0.9786628117429029,0.30095753165307254,0.23864775957084552,Model artifact metadata snapshot

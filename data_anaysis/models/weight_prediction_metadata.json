@@ -1,0 +1,14 @@
+{
+    "model_name": "Linear Regression",
+    "r2_score": 0.7703040857618868,
+    "rmse": 34.194226358972834,
+    "mae": 20.457921359954643,
+    "features": [
+        "Time",
+        "Time_squared",
+        "Time_cubed"
+    ],
+    "target": "weight",
+    "unit": "grams",
+    "input_unit": "days"
+}

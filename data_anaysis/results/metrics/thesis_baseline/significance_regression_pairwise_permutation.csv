@@ -1,0 +1,4 @@
+ModelA,ModelB,Metric,MeanDiff_A_minus_B,PValue
+Linear Regression,Random Forest,R2,0.03329957598191089,9.999000099990002e-05
+Linear Regression,Decision Tree,R2,0.033313024785726626,9.999000099990002e-05
+Random Forest,Decision Tree,R2,1.3448803815738763e-05,0.9841015898410159
